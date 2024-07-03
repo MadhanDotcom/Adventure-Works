@@ -1,5 +1,5 @@
 # ADVENTURE WORKS - Guided project
-Description
+#Description
 Adventure Works is a large multinational company that manufactures and distributes products in four categories: bikes, bike components, accessories, and clothing. The company operates in three continents and six countries, including North America (United States & Canada), Europe (France, Germany, and the United Kingdom), and Australia (Australia).
 
 Overview
